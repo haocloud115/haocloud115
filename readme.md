@@ -9,7 +9,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=haocloud115&theme=onedark&no-frame=false&no-bg=false&margin-w=4)</br>
-![trophy](https://github-profile-trophy.vercel.app/?username=haocloud115&column=5&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=haocloud115&column=6&&margin-w=4&theme=onedark)
 
 ---
 
